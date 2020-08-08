@@ -110,3 +110,12 @@ public class FlatMapOperator {
 
 
 }
+
+/*
+* /System.out: Sarayu,Male,107,Township,jharkhand
+ Ashok,Male,107,Township,jharkhand
+ Krishna,Male,107,Township,jharkhand
+*
+*
+*
+* */
